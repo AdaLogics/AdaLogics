@@ -9,4 +9,6 @@ and many more at our [Training page](https://adalogics.com/cyber-security-traini
 - [Understanding Code Injections From Beginner To Advanced](https://adalogics.com/training-codeinjection)
 - [Automating RE With Outside-The-Box Full-System Dynamic Analysis](https://adalogics.com/training-re-automation)
 
-We also run a blog called [Program Analysis Corner](https://adalogics.com/blog) and share videos on program analysis at our [YouTube profile](https://www.youtube.com/channel/UC9AiX8FOiOpK6mNggXSamBg) 
+We run a blog called [Program Analysis Corner](https://adalogics.com/blog) that writes in-depth about program analysis
+
+We share in-depth technical videos on [YouTube](https://www.youtube.com/channel/UC9AiX8FOiOpK6mNggXSamBg) 
